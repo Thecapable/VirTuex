@@ -41,12 +41,4 @@ Computer Vision is being applied in the application to-
 
 
 
-## How to run it 
-
-Website Courtesy:
-
-
-Author-Colorlib
-
-
 Licence: CC BY 3.0
