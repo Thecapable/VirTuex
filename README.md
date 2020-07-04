@@ -9,10 +9,13 @@ VirTuex is an application that is used by people to help them try on clothes vir
 
 ## How to run it 
 
-Website Courtesy:
+Run app.py to run the application directly. Otherwise you can try the application through the website whose code has been included in the repository.
 
 
-Author-Colorlib
+
+
+
+
 
 
 Licence: CC BY 3.0
